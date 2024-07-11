@@ -3,9 +3,9 @@
 ###### JavaScript, vecka 3 av 6
 
 ## Mål för veckan:
-1. Förståelse för vad JavaScript är och vad det används till
-2. Förståelse för grundläggande koncept inom programmering som listor och objekt
-3. Förståelse för DOM-manipulation
+1. Spara undan data i Local Storage
+2. Kunna felsöka i någon annans kod
+3. Asynkron programmering med fetch och API:er
 
 ## Material
 #### E-Learning:
