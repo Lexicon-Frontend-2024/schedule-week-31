@@ -1,6 +1,6 @@
 # Schema, vecka 31
 
-###### JavaScript, vecka 3 av 6
+###### JavaScript, vecka 3 av 5
 
 ## Mål för veckan:
 1. Spara undan data i Local Storage
