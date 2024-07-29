@@ -22,3 +22,4 @@
 
 ## Slides:
 * [Local Storage](https://docs.google.com/presentation/d/1kUSn9nrJD8aeLhHVDjMUCBfyMU9vryvfmD9h2d0tKG0/edit?usp=sharing)
+* [API och asynkrona funktioner](https://docs.google.com/presentation/d/16dv4iMZUUNIJEX35c1lCBZ3hqnKTWnE7/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
