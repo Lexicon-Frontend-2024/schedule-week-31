@@ -19,6 +19,7 @@
 ## Övningar:
 * [Receptet](https://github.com/Lexicon-Frontend-2024/exercise-js-recipe-manipulation/tree/main) Deadline 31/7
 * [Login / Registration Application](https://github.com/Lexicon-Frontend-2024/exersice-js-login-registration)
+* [API Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-js-api-bootcamp)
 
 ## Slides:
 * [Local Storage](https://docs.google.com/presentation/d/1kUSn9nrJD8aeLhHVDjMUCBfyMU9vryvfmD9h2d0tKG0/edit?usp=sharing)
